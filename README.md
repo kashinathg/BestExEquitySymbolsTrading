@@ -54,7 +54,7 @@ cd libs-build
 cd ..
 
 # main trade-frame code
-git clone https://github.com/kashinathg/trade-frame.git
+git clone https://github.com/kashinathg/BestExEquitySymbolsTrading.git
 # if you have access to the up-to-date private library:
 # git clone https://github.com/kashinathg/tf2.git
 
